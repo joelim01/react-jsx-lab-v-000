@@ -4,6 +4,6 @@ class Webpage extends Component {
       <h1>The World's Coolest Webpage</h1>
       <Fillertext />
       <Fillertext />
-    )
+    );
   }
 }
