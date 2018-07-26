@@ -1,4 +1,4 @@
-class RegistrationForm extends Component {
+class RegistrationForm extends React.Component {
   render() {
     return(
       <form>
