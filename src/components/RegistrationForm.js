@@ -9,3 +9,5 @@ class RegistrationForm extends Component {
     )
   }
 }
+
+export default RegistrationForm
