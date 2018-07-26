@@ -7,3 +7,5 @@ class Webpage extends Component {
     );
   }
 }
+
+export default Webpage
