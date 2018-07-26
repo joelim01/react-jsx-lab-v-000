@@ -1,4 +1,4 @@
-class Webpage extends Component {
+class Webpage extends React.Component {
   render() {
     return(
       <h1>The World's Coolest Webpage</h1>
