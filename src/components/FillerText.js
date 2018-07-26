@@ -5,3 +5,5 @@ class FillerText extends Component {
     )
   }
 }
+
+export default FillerText
