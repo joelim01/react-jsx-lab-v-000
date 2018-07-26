@@ -1,3 +1,5 @@
+import React from 'react';
+
 class FillerText extends React.Component {
   render() {
     return (
